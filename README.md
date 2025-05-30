@@ -25,6 +25,7 @@ Cleaned and structured the dataset in SQL Server
 ✅ Created visuals 
 
 🚀 How to Run This Project
+
 Import Data: Open the Excel file or upload the CSV version to SQL Server.
 
 SQL Cleanup: Run the SQL script to clean and prepare the data.
